@@ -4,7 +4,7 @@ using System.Text.Json.Serialization;
 namespace CustomJsonConverters;
 
 /// <summary>
-/// static class for creating custom json converter object.
+/// static class for creating custom json converter objects.
 /// </summary>
 public static class CustomJsonConverters
 {
